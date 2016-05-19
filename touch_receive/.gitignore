@@ -1,0 +1,7 @@
+# Gradle ignores.
+build/
+.gradle/
+gradle/
+
+# Common ignores.
+*.swp
